@@ -1,0 +1,12 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="300" fill="#3D5A80"/>
+  <g opacity="0.18" fill="#D4A574">
+    <path d="M120 230 L120 140 Q120 100 160 100 Q200 100 200 140 L200 230 Z"/>
+    <path d="M260 230 L260 140 Q260 100 300 100 Q340 100 340 140 L340 230 Z"/>
+    <path d="M400 230 L400 140 Q400 100 440 100 Q480 100 480 140 L480 230 Z"/>
+    <path d="M540 230 L540 140 Q540 100 580 100 Q620 100 620 140 L620 230 Z"/>
+    <path d="M680 230 L680 140 Q680 100 720 100 Q760 100 760 140 L760 230 Z"/>
+    <rect x="80" y="225" width="700" height="10"/>
+  </g>
+  <text x="400" y="270" text-anchor="middle" fill="#D4A574" opacity="0.7" font-family="Helvetica, sans-serif" font-size="14" font-style="italic">ROMA</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="sun" cx="80%" cy="30%">
+      <stop offset="0%" stop-color="#D4A574" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#3D5A80" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="300" fill="#3D5A80"/>
+  <rect width="800" height="300" fill="url(#sun)"/>
+  <g opacity="0.25" fill="#D4A574">
+    <path d="M0 240 Q200 200 400 220 T800 230 L800 300 L0 300 Z"/>
+  </g>
+</svg>

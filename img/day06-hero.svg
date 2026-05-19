@@ -1,0 +1,24 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="300" fill="#5C8C7E"/>
+  <g opacity="0.3" fill="#E8D9B4">
+    <rect x="0" y="220" width="800" height="80"/>
+  </g>
+  <g opacity="0.5" fill="#E8D9B4">
+    <rect x="100" y="190" width="60" height="40"/>
+    <polygon points="100,190 130,140 160,190"/>
+    <rect x="180" y="180" width="70" height="50"/>
+    <polygon points="180,180 215,120 250,180"/>
+    <rect x="270" y="195" width="55" height="35"/>
+    <polygon points="270,195 297,150 325,195"/>
+    <rect x="345" y="175" width="80" height="55"/>
+    <polygon points="345,175 385,110 425,175"/>
+    <rect x="445" y="185" width="65" height="45"/>
+    <polygon points="445,185 477,130 510,185"/>
+    <rect x="530" y="200" width="50" height="30"/>
+    <polygon points="530,200 555,160 580,200"/>
+    <rect x="600" y="180" width="70" height="50"/>
+    <polygon points="600,180 635,120 670,180"/>
+    <rect x="690" y="195" width="55" height="35"/>
+    <polygon points="690,195 717,150 745,195"/>
+  </g>
+</svg>
